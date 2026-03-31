@@ -24,7 +24,9 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <svg width="40" height="40" viewBox="0 0 128 128" fill="#8912FC" xmlns="http://www.w3.org/2000/svg">
+    <path d="M64 0C28.656 0 0 28.656 0 64s28.656 64 64 64 64-28.656 64-64S99.344 0 64 0zm31.52 90.304c0 5.76-4.48 8.832-11.392 8.832H44.608V68.16h18.432c9.472 0 15.872 3.2 15.872 11.904 0 5.76-4.48 8.64-11.104 8.64H44.608v15.6h21.92c9.472 0 15.872 3.04 15.872 11.904z"/>
+  </svg>
 </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
