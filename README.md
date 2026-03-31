@@ -18,7 +18,9 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 <div> 
 
 <a href="https://facebook.com/shahariar.sumon" target="_blank">
-  <img src="https://www.facebook.com/profile.php?id=100004729545519" alt="Facebook" />
+  <!-- <img src="https://www.facebook.com/profile.php?id=100004729545519" alt="Facebook" /> -->
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+
 </a>
   <a href="https://www.instagram.com/shaharir_sumon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
