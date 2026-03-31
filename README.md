@@ -8,7 +8,8 @@
 <p align="left">
 </p>
 
-Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
+Learning NestJS | Experienced in MERN Stack
+shaharir.cse@gmail.com
 
 ---
 
@@ -48,19 +49,4 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaharir&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&" alt="GitHub Streak" /></p> -->
 
-<h3 align="left">GitHub Stats:</h3>
 
-<!-- Top Languages -->
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharir.sumon&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<!-- GitHub Overall Stats -->
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shaharir.sumon&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir.sumon&theme=radical" alt="GitHub Streak" />
-</p>
