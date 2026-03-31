@@ -6,12 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharir&label=Profile%20views&color=0e75b6&style=flat" alt="shaharir" /> </p>
 
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" /></a>
 </p>
 
-- 🌱 I’m currently learning **NestJS**  
-- 💬 Ask me about **MERN Stack**  
-- 📫 How to reach me: **shaharir.cse@gmail.com**  
+Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 
 ---
 
