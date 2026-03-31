@@ -52,7 +52,7 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 
 <!-- Top Languages -->
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharir.sumon&layout=compact&theme=radical" alt="Top Languages" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharir.sumon&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <!-- GitHub Overall Stats -->
