@@ -40,4 +40,10 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaharir&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&" alt="GitHub Streak" /></p> -->
 
-
+---
+| Project | Description | Link |
+|---------|-------------|------|
+| **Portfolio Website** | My personal portfolio showcasing my skills and projects. | [View Repo](https://github.com/yourusername/portfolio) |
+| **E-commerce Platform** | A full-stack e-commerce website built with MERN stack. | [View Repo](https://github.com/yourusername/ecommerce) |
+| **React Dashboard** | Interactive admin dashboard with charts and tables. | [View Repo](https://github.com/yourusername/react-dashboard) |
+| **Blog App** | A blogging platform with authentication and CRUD features. | [View Repo](https://github.com/yourusername/blog-app) |
