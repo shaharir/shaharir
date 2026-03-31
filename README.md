@@ -60,14 +60,14 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
   
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kanizfatima2&show_icons=true&theme=transparent" />
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanizfatima2&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&theme=dark" />
 </p>
 
 <!-- <p align="center">
