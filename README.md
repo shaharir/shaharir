@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-<div style="width: 200px; height: auto; overflow: hidden; background: transparent;">
+<div style="width: 20px; height: auto; overflow: hidden; background: transparent;">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" 
        alt="Programmer GIF" 
        style="width: 100%; height: auto; display: block;" />
