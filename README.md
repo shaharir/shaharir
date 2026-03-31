@@ -41,9 +41,21 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&" alt="GitHub Streak" /></p> -->
 
 ---
-| Project | Description | Link |
-|---------|-------------|------|
-| **Portfolio Website** | My personal portfolio showcasing my skills and projects. | [View Repo](https://github.com/yourusername/portfolio) |
-| **E-commerce Platform** | A full-stack e-commerce website built with MERN stack. | [View Repo](https://github.com/yourusername/ecommerce) |
-| **React Dashboard** | Interactive admin dashboard with charts and tables. | [View Repo](https://github.com/yourusername/react-dashboard) |
-| **Blog App** | A blogging platform with authentication and CRUD features. | [View Repo](https://github.com/yourusername/blog-app) |
+## Projects
+
+- 🔗 [**Hisabnikash**](https://hisabnikashbd.com/) — **Inventory Management System**  
+  A comprehensive platform to manage stock, sales, purchases, and reporting efficiently.  
+
+- 🔗 [**Agrosys**](https://agrosysbd.com/) — **Production Management System**  
+  Designed for tracking agricultural and production data with detailed production reports.  
+
+- 🔗 [**Silicon ISP**](https://siliconisp.com/) — **Billing & Customer Management**  
+  A solution for ISPs to manage billing, customer accounts, and payment tracking seamlessly.
+   
+- 🔗 [**Printing ERP**](https://siliconisp.com/) — **Printing & Press Management**  
+  A comprehensive ERP system for print businesses to manage orders, production, billing, and inventory efficiently.   
+
+- 🧩 **Admin Dashboard** — **Internal Tool**  
+  An internal dashboard for company management with real-time data visualization and user access control.  
+  
+---
