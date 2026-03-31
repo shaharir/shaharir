@@ -35,7 +35,7 @@ Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
  <img align="center" alt="NestJS" height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
  <img align="center" alt="Bootstrap" height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg">
- <img align="center" alt="TailwindCSS" height="30" width="40" src="https://static.cdnlogo.com/logos/t/34/tailwind-css.svg">
+ <img align="center" alt="TailwindCSS" height="30" width="120" src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg">
 </div>
 
 ---
