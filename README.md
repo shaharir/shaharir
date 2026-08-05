@@ -1,98 +1,167 @@
-<h1 align="center">Shahariar Sumon</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Shahariar Sumon</h1>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaharir&label=Profile%20views&color=0e75b6&style=flat" alt="shaharir" /> </p>
-
-<p align="left">
-</p>
-
-Learning NestJS | Experienced in MERN Stack | shaharir.cse@gmail.com
-
----
-
-<h3 align="left">Connect with me:</h3>
-
-<div> 
-
-<a href="https://www.facebook.com/profile.php?id=100004729545519" target="_blank">
-  <!-- <img src="https://www.facebook.com/profile.php?id=100004729545519" alt="Facebook" /> -->
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-
-</a>
-  <a href="https://www.instagram.com/shaharir_sumon" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<a href="mailto:shaharir.cse@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>  <a href="https://www.linkedin.com/in/shahariar-sumon-709832307" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
-
----
-<h3 align="left">Languages and Tools:</h3>
-<table>
-  <tr>
-    <td>
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-      <img height="30" width="40" src="https://nestjs.com/img/logo-small.svg">
-      <img height="30" width="80" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img height="30" width="40" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo.svg">
-      <img height="30" width="40" src="https://static.cdnlogo.com/logos/t/58/tailwindcss.svg">
-    </td>
-  </tr>
-</table>
-
-<!-- <h3 align="left">GitHub Stats:</h3>
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaharir&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaharir&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&" alt="GitHub Streak" /></p> -->
-
----
-## Projects
-
-- 🔗 [**Hisabnikash**](https://hisabnikashbd.com/) — **Inventory Management System**  
-  A comprehensive platform to manage stock, sales, purchases, and reporting efficiently.  
-
-- 🔗 [**Agrosys**](https://agrosysbd.com/) — **Production Management System**  
-  Designed for tracking agricultural and production data with detailed production reports.  
-
-- 🔗 [**Silicon ISP**](https://siliconisp.com/) — **Billing & Customer Management**  
-  A solution for ISPs to manage billing, customer accounts, and payment tracking seamlessly.
-   
-- 🔗 [**Printing ERP**](https://siliconisp.com/) — **Printing & Press Management**  
-  A comprehensive ERP system for print businesses to manage orders, production, billing, and inventory efficiently.   
-
-- 🧩 **Admin Dashboard** — **Internal Tool**  
-  An internal dashboard for company management with real-time data visualization and user access control.  
-  
----
-
-## GitHub Stats
-
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanizfatima2&show_icons=true&theme=transparent" />
-</p> -->
+<h3 align="center">
+Frontend Software Engineer | React.js • Next.js • TypeScript • NestJS
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&theme=dark" />
+Building scalable ERP, POS, Inventory & Business Management Systems
 </p>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanizfatima2&layout=compact&theme=transparent" />
-</p> -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shaharir&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
+
+## 👨‍💻 About Me
+
+- 💼 Frontend Software Engineer
+- ⚛️ Specialized in **React.js**, **Next.js**, **Redux Toolkit**, **RTK Query**
+- 🚀 Currently learning **NestJS** for backend development
+- 🏢 Developing enterprise-level **ERP**, **POS**, **Inventory**, **Billing**, and **Production Management Systems**
+- 🌱 Passionate about writing clean, scalable and maintainable code
+- 📍 Rajshahi, Bangladesh
+- 📧 **shaharir.cse@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shahariar-sumon-709832307">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shaharir.cse@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100004729545519">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/shaharir_sumon">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,html,css,tailwind,bootstrap" />
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
+</p>
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python" />
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 📦 HisabNikash ERP
+
+🔗 https://hisabnikashbd.com
+
+Enterprise Inventory, POS, Sales, Purchase, Accounting & Reporting System.
+
+---
+
+### 🌾 Agrosys
+
+🔗 https://agrosysbd.com
+
+Agriculture & Production Management Platform with production reports and inventory.
+
+---
+
+### 🌐 Silicon ISP
+
+🔗 https://siliconisp.com
+
+ISP Billing, Customer Management, Payment Collection & Reporting System.
+
+---
+
+### 🖨 Printing ERP
+
+Enterprise Printing & Press Management Software including Production, Billing and Inventory.
+
+---
+
+### 📊 Admin Dashboard
+
+Role-based Dashboard with Analytics, Reports and Business Insights.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shaharir&show_icons=true&theme=transparent"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharir&layout=compact&theme=transparent"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaharir&theme=dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Activity
+
+- ✅ 2300+ Contributions
+- 🔥 Active Developer
+- 💻 Enterprise Software Development
+- ⚡ Passionate about Frontend Architecture
+- 🚀 Always Learning New Technologies
+
+---
+
+## 💬 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
+
+— John Johnson
